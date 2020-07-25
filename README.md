@@ -3,6 +3,8 @@
 
 
 
+:smiley: Auxiliar do Administrador de Rede Local na **[Marinha do Brasil](https://www.marinha.mil.br/)** 
+
 👨‍🎓 Técnico em Informática
 
 👨‍🎓 Ciência da Computação - Cruzeiro do Sul
