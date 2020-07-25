@@ -24,6 +24,8 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/brennogf)](https://github.com/brennogf)
 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/brennogf)](https://github.com/brennogf)
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brennogf)](https://github.com/brennogf)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brennogf)](https://github.com/brennogf)
 
 ### Redes Sociais 👓
