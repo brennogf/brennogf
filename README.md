@@ -10,7 +10,7 @@
 ### Sobre mim :eyes:
 
 - :dart: Full Stack Web Developer | Node.js | React   
-- :e-mail: Fale comigo ; **[brennogivigier@gmail.com](brennogivigier@gmail.com)**
+- :e-mail: Fale comigo ; **[brennogivigier@gmail.com](mailto://brennogivigier@gmail.com)**
 
 ![Brenno github stats](https://github-readme-stats.vercel.app/api?username=brennogf&show_icons=true&hide_border=true)
 
