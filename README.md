@@ -10,7 +10,7 @@
 ### Sobre mim :eyes:
 
 - :dart: Full Stack Web Developer | Node.js | React   
-- :e-mail: Se comunique comigo - **[brennogivigier@gmail.com](brennogivigier@gmail.com)**
+- :e-mail: Fale comigo ; **[brennogivigier@gmail.com](brennogivigier@gmail.com)**
 
 ![Brenno github stats](https://github-readme-stats.vercel.app/api?username=brennogf&show_icons=true&hide_border=true)
 
@@ -29,4 +29,4 @@
 |  <a href="https://github.com/brennogf/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Brenno Givigier](https://github.com/brennogf/)**                                                                                |
-|<a href="https://twitter.com/brennogf"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/brennogf"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/brenno.givigier"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/brenno-givigier/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+|<a href="https://twitter.com/brennogf"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/brennogf"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a> <a href="https://www.instagram.com/brennogivigier/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/brenno-givigier/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
