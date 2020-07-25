@@ -30,3 +30,7 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Brenno Givigier](https://github.com/brennogf/)**                                                                                |
 |<a href="https://twitter.com/brennogf"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/brennogivigier/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a> <a href="https://www.facebook.com/brenno.givigier/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/brenno-givigier/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brennogf)
+ 
+⭐️ from [@brennogf](https://github.com/brennogf)
