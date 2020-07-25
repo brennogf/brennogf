@@ -1,5 +1,5 @@
 
-### Olá 👋, eu sou [Brenno Givigier]() 👨‍💻
+### Olá 👋, eu sou [Brenno Givigier](https://github.com/brennogf) 👨‍💻
 
 
 
