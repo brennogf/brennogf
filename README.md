@@ -3,7 +3,7 @@
 
 
 
-:smiley: Técnico de Informática
+👨‍🎓 Técnico em Informática
 
 👨‍🎓 Ciência da Computação - Cruzeiro do Sul
 
