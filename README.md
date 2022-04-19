@@ -14,8 +14,6 @@
 - :dart: Full Stack Developer | Node.js | React | React Native
 - :e-mail: Talk to me -> **[brennogivigier@gmail.com](mailto://brennogivigier@gmail.com)**
 
-![Brenno github stats](https://github-readme-stats.vercel.app/api?username=brennogf&show_icons=true&hide_border=true)
-
 ### Skills :computer:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/brennogf)](https://github.com/brennogf) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/brennogf)](https://github.com/brennogf) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/brennogf)](https://github.com/brennogf) 
@@ -28,3 +26,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/brennogf)](https://github.com/brennogf) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/brennogf/)](https://github.com/brennogf/) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/brennogf/)](https://github.com/brennogf/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brennogf)](https://github.com/brennogf)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brennogf)](https://github.com/brennogf)
+
+![Brenno github stats](https://github-readme-stats.vercel.app/api?username=brennogf&show_icons=true&hide_border=true)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=brennogf)
