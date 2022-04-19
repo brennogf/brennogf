@@ -21,11 +21,9 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/brennogf)](https://github.com/brennogf) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/brennogf)](https://github.com/brennogf) [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/brennogf/)](https://github.com/brennogf/) [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/brennogf/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/brennogf)](https://github.com/brennogf) [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/brennogf/)](https://github.com/brennogf/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/brennogf/)](https://github.com/brennogf/) [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/brennogf/)](https://github.com/brennogf/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/brennogf/)](https://github.com/brennogf/)
 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/brennogf)](https://github.com/brennogf) [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/brennogf/)](https://github.com/brennogf/) [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/brennogf/)](https://github.com/brennogf/)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/brennogf)](https://github.com/brennogf)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/brennogf)](https://github.com/brennogf)
 
 ![Brenno github stats](https://github-readme-stats.vercel.app/api?username=brennogf&show_icons=true&hide_border=true)
 
