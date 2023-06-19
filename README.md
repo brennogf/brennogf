@@ -11,7 +11,7 @@
 
 ### About me :eyes:
 
-- :dart: Full Stack Developer | Node.js | ReactJS | React Native
+- :dart: Back-end Developer | Node.js
 - :e-mail: Talk to me -> **[brennogivigier@gmail.com](mailto://brennogivigier@gmail.com)**
 
 ![Brenno github stats](https://github-readme-stats.vercel.app/api?username=brennogf&show_icons=true&hide_border=true)
