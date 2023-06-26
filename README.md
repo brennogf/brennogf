@@ -11,8 +11,8 @@
 
 ### Sobre mim :eyes:
 
-- :dart: Back-end Developer | Node.js
-- :e-mail: Talk to me -> **[brennogivigier@gmail.com](mailto://brennogivigier@gmail.com)**
+- :dart: Backend Developer | Node.js
+- :e-mail: Fale comigo -> **[brennogivigier@gmail.com](mailto://brennogivigier@gmail.com)**
 
 ### Skills :computer:
 
