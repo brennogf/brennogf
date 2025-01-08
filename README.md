@@ -3,7 +3,7 @@
 
 
 
-:smiley: Auxiliar do Administrador de Rede de Dados na **[Marinha do Brasil](https://www.marinha.mil.br/)** 
+:smiley: Administrador de Rede na **[Marinha do Brasil](https://www.marinha.mil.br/)** 
 
 👨‍🎓 Bacharelado em Ciência da Computação
 
