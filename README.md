@@ -9,5 +9,5 @@
 
 ### Sobre mim :eyes:
 
-- :dart: Desenvolvedor Full Stack
+- :dart: Desenvolvedor Full Stack | Node.js | React | Typescript | React Native
 - :e-mail: Fale comigo -> **[brennogivigier@gmail.com](mailto://brennogivigier@gmail.com)**
