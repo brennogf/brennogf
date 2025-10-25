@@ -34,15 +34,6 @@
 
 Want to read more? [Check out all the blogs](medium.com/@brennogivigier)
 
-## 📈 Stats
-
-<div align="center">
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=brennogf&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=brennogf.brennogf" alt="visitors">
-</div>
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://brennogf.github.io/)
