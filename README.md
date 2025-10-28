@@ -36,7 +36,7 @@ Want to read more? [Check out all the blogs](medium.com/@brennogivigier)
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://brennogf.github.io/)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://drive.google.com/file/d/1zXvdYkTFMdb1IX5kfOXBMV29PFGspiXJ/view?usp=drive_link)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://drive.google.com/file/d/1bx2OSr5j9LyrPtPff3l3Qe5sM_SryFLp/view?usp=sharing)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@brennogivigier)
 [![linked-in](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/brenno-givigier/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brennogivigier@gmail.com)
